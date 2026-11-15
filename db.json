@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@gmail.com",
+      "password": "123456",
+      "role":"super-admin"
+    }
+  ],
+  "hero-sliders": [
+    {
+      "id": 1,
+      "img": "/img/carousel-11.jpg",
+      "title": "Secure Your Home With Us",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    },
+    {
+      "id": 2,
+      "img": "/img/carousel-2.jpg",
+      "title": "Protect Your Business With Our CCTV Systems",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    },
+    {
+      "id": 3,
+      "img": "/img/carousel-3.jpg",
+      "title": "Your Safety Is Our Priority",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    }
+  ],
+  "OurServices": [
+    {
+      "id": 1,
+      "img": "/img/carousel-3.jpg",
+      "title": "Commercial CCTV System",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    },
+    {
+      "id": 2,
+      "img": "/img/icon/icon-7.png",
+      "title": "Finger Print Access",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    },
+    {
+      "id": 3,
+      "img": "/img/icon/icon-8.png",
+      "title": "Fire Detection And Safety",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    },
+    {
+      "id": 4,
+      "img": "img/icon/icon-9.png",
+      "title": "Smart Home Security",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    }
+  ],
+  "ContactUs": [
+    {
+      "id": 1,
+      "name": "ahmed hassan",
+      "email": "hamada@gmail.com",
+      "phone": "+1200443433",
+      "service": "service 1",
+      "description": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem"
+    }
+  ],
+  "TeamMembers": [
+    {
+      "id": 1,
+      "img": "/img/team-1.jpg",
+      "name": "Omar Khaled",
+      "position": "Project Manager"
+    },
+    {
+      "id": 2,
+      "img": "/img/team-2.png",
+      "name": "mohamed yahya",
+      "position": "full stack web"
+    },
+    {
+      "id": 3,
+      "img": "/img/team-3.jpg",
+      "name": "Sara Ahmed",
+      "position": "UI/UX Designer"
+    },
+    {
+      "id": 4,
+      "img": "/img/team-4.jpg",
+      "name": "Youssef Adel",
+      "position": "Security Specialist"
+    }    
+  ],
+  "WhyChooseUs": [
+    {
+      "id": 1,
+      "img": "img/team-1.jpg",
+      "name": "John Doe",
+      "position": "CEO"
+    },
+    {
+      "id": 2,
+      "img": "img/team-2.jpg",
+      "name": "Jane Smith",
+      "position": "CTO"
+    },
+    {
+      "id": 3,
+      "img": "img/team-3.jpg",
+      "name": "Emily Johnson",
+      "position": "CFO"
+    },
+    {
+      "id": 4,
+      "img": "img/team-4.jpg",
+      "name": "Michael Brown",
+      "position": "COO"
+    }    
+  ],
+  "address": [
+    {
+      "id": 1,
+      "address":"123 street, giza cairo",
+      "phone":"+1200443433",
+      "email":"securevision22@gmail.com"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 1,
+      "email": "test@example.com"
+    }
+  ]
+
+}
