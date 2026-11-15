@@ -5,7 +5,7 @@ import Hero from "./pages/Hero";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import About from "./pages/about";
+import About from "./pages/About";
 import OurServices from "./pages/OurServices";
 import Page404 from "./pages/Page404";
 import TeamMembers from "./pages/TeamMembers";
