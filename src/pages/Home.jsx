@@ -1,5 +1,5 @@
 import Hero from "./Hero";
-import About from "./about";
+import About from "./About";
 import OurServices from "./OurServices";
 import WhyChooseUs from "./WhyChooseUs";
 import ContactUs from "./ContactUs";
